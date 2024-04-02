@@ -6,3 +6,4 @@ token: str = "YOUR TOKEN"
 
 prefix: str = "YOUR PREFIX"
 
+intents: disnake.Intents = disnake.Intents().all()
